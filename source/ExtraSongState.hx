@@ -58,7 +58,7 @@ class ExtraSongState extends MusicBeatState
         
 		addWeek(['Sugar-Rush', 'Origin', 'Metallic', 'Strawberry', 'Keyboard', 'Cycles'], 2, ['bandu-candy', 'bandu-origin', 'ringi', 'bambom', 'bendu', 'sart-producer']);
         addWeek(['Thunderstorm', 'Wheels', 'Dave-x-Bambi-Shipping-Cute', 'RECOVERED-PROJECT'], 1, ['dave-png', 'dave-wheels', 'dave-good', 'RECOVERED_PROJECT']);
-		addWeek(['Sart-Producer'], 4, ['sart-producer']);
+		addWeek(['Sart-Producer', 'Old-Strawberry], 4, ['sart-producer']);
 
         grpSongs = new FlxTypedGroup<Alphabet>();
 		add(grpSongs);
