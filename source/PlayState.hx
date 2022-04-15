@@ -1011,7 +1011,7 @@ class PlayState extends MusicBeatState
 						bg.loadGraphic(Paths.image('bambi/metal'));
 						bg.y -= 235;
 						curStage = 'metallic';
-					case 'strawberry':
+					case 'strawberry' | 'old-strawberry':
 						defaultCamZoom = 0.69;
 						bg.loadGraphic(Paths.image('bambi/strawberries'));
 						bg.scrollFactor.set(0, 0);
