@@ -719,7 +719,7 @@ class PlayState extends MusicBeatState
 				credits = 'Original song made by Saruky for Vs. Shaggy!';
 			case 'metallic':
 				credits = 'OC created by Dragolii!';
-			case 'strawberry':
+			case 'strawberry' | 'old-strawberry':
 				credits = 'OC created by Emiko!';
 			case 'keyboard':
 				credits = 'OC created by DanWiki!';
